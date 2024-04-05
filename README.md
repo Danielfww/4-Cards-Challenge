@@ -5,11 +5,9 @@ Your challenge is to build out this feature section and get it looking as close 
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-https://github.com/Danielfww/4-Cards-Challenge/blob/main/images/desktop-preview.jpg?raw=true
+<img src="https://ibb.co/0C5YRSv" width="50%" height="50%">
+<img src="https://ibb.co/CQVHQh0" width="50%" height="50%">
 
-
-![alt text](https://ibb.co/0C5YRSv)
-![alt text](https://ibb.co/CQVHQh0)
 
 
 
