@@ -21,4 +21,5 @@ Download the starter code and go through the README.md file. This will provide f
 
 Want some support on the challenge? Join our community and ask questions in the help channel.
 
-Link to the Challenge:https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK
+
+Link to the Challenge: https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK
