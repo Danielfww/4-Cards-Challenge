@@ -3,16 +3,13 @@
 
 Your challenge is to build out this feature section and get it looking as close to the design as possible.
 
+How design should look like:
+
+![desktop-preview](https://github.com/Danielfww/4-Cards-Challenge/assets/158219974/fae18b17-bd90-4b13-b670-ed14d2579a41)
+![mobile-design](https://github.com/Danielfww/4-Cards-Challenge/assets/158219974/672ae9e7-685e-4acc-88b9-0848ce79403c)
+
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-<img src="https://ibb.co/0C5YRSv" width="50%" height="50%">
-<img src="https://ibb.co/CQVHQh0" width="50%" height="50%">
-
-<img src="https://ibb.co/CQVHQh0" alt="Employee data" title="Employee Data title">
-
-
-https://ibb.co/0C5YRSv
-https://ibb.co/CQVHQh0
 
 Your users should be able to:
 
