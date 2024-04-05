@@ -5,7 +5,7 @@ Your challenge is to build out this feature section and get it looking as close 
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-https://github.com/Danielfww/4-Cards-Challenge/blob/main/images/desktop-preview.jpg
+https://github.com/Danielfww/4-Cards-Challenge/blob/main/images/desktop-preview.jpg?raw=true
 
 
 https://ibb.co/0C5YRSv
