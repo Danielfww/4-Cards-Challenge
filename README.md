@@ -8,6 +8,11 @@ You can use any tools you like to help you complete the challenge. So if you've 
 https://github.com/Danielfww/4-Cards-Challenge/blob/main/images/desktop-preview.jpg?raw=true
 
 
+![alt text](https://ibb.co/0C5YRSv)
+![alt text](https://ibb.co/CQVHQh0)
+
+
+
 https://ibb.co/0C5YRSv
 https://ibb.co/CQVHQh0
 
