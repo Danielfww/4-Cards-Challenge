@@ -8,7 +8,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 <img src="https://ibb.co/0C5YRSv" width="50%" height="50%">
 <img src="https://ibb.co/CQVHQh0" width="50%" height="50%">
 
-
+<img src="https://ibb.co/CQVHQh0" alt="Employee data" title="Employee Data title">
 
 
 https://ibb.co/0C5YRSv
