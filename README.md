@@ -38,7 +38,7 @@ Author:
 Danielfww
 
 Credits: 
-Shotous to https://github.com/Pipendog  and https://github.com/NobelBeastPrize for always being there for me.
+Shotouts to https://github.com/Pipendog  and https://github.com/NobelBeastPrize for always being there for me.
 
 
 
