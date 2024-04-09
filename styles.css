@@ -1,0 +1,150 @@
+* { 
+    margin: 0 auto;
+    padding: auto 0;
+    box-sizing: border-box;
+}
+
+html {
+  font-size:16px;
+  font-family:Poppins;
+}
+
+
+body { 
+  width:1393px;
+  height:920px;
+  margin-left:auto;
+  margin-right:auto;
+ 
+}
+
+
+
+
+.container {
+  min-height:100vh;
+  min-width:100vh;
+  display:grid;
+  grid-template-rows:1fr 1fr 1fr;
+  grid-template-columns:1fr 1fr 1fr;
+  align-items:center;
+  justify-content:center;
+  gap:20px;
+ 
+}
+
+
+
+.box-1 {
+  margin-top:75px;
+  width:525px;
+  height:190px;
+  grid-area:1 / 2 / 1 / 3;
+  align-self:center;
+ 
+}
+
+.main {
+  width: 90%;
+  height: 220px;
+  text-align: center;
+  justify-content: center;
+  display: grid;
+  align-items: center;
+  gap: 10px 10px;
+  column-gap: 10px;
+  font-family: Poppins;
+  
+}
+
+.box-2 {
+ width:350px;
+  height:250px;
+  padding: 30px 30px 30px 30px;
+  grid-area:3 / 1 / 3 / 2;
+  align-self:center;
+   align-items:center;
+  border-top: 5px solid hsl(180, 62%, 55%);
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.22);
+  position:relative;
+  top:-150px;
+  left:110px;
+  
+}
+
+.box-3 {
+  width:350px;
+  height:250px;
+  padding: 30px 30px 30px 30px;
+  grid-area:2 / 2 / 3 / 3;
+  align-self:center;
+  border-top: 5px solid hsl(0, 78%, 62%);
+  z-index: 3;
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.22);
+}
+
+.box-4 {
+ width:350px;
+  height:250px;
+  padding: 30px 30px 30px 30px;
+  grid-area:3 / 2 / 3 / 3;
+  align-self:center;
+   border-top: solid 5px hsl(34, 97%, 64%);
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.22);
+}
+
+.box-5 {
+ width:350px;
+  height:250px;
+  padding: 30px 30px 30px 30px;
+  grid-area:3 / 3 / 3 / 3;
+  align-self:stretch;
+  justify-content:center;
+  border-radius: 10px;
+  z-index: 5;
+  border-top: solid 5px hsl(212, 86%, 64%);
+  background: white;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.22);
+    position:relative;
+  top:-150px;
+  left:-110px;
+}
+
+.reliable {
+  text-align: center !important;
+  font-weight: 300;
+  color: hsl(234, 12%, 34%);
+  font-size:29px;
+}
+
+.powered {
+  text-align: center;
+  font-weight: 600;
+  font-size:29px;
+}
+.our {
+  color: hsl(229, 6%, 66%);
+  text-align:center;
+  font-size:18px;
+  top:10px;
+}
+
+.left {
+  text-align: left !important;
+  color:black;
+  font-weight:500;
+  
+}
+
+
+.box-text {
+  color: hsl(229, 6%, 66%);
+  text-align:left;
+  top:10px;
+}
