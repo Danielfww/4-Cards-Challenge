@@ -174,7 +174,7 @@ img {
 
 
 
-@media (max-width:728px){
+@media (max-width:555px){
 
    
   body {
@@ -252,4 +252,5 @@ img {
   top:10px;
   position:relative;
 }
-  
+}
+
